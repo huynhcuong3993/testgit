@@ -1,0 +1,16 @@
+.flex-container{
+    width: 220pt;
+    display: flex;
+    flex-wrap: wrap;
+}
+.color{
+    width: 20pt;
+    height: 20pt;
+    border: 0.5px solid black;
+}
+.alert {
+    padding: 20px;
+    background-color: #f44336; /* Red */
+    color: white;
+    margin-bottom: 15px;
+}
